@@ -1,6 +1,6 @@
 import time
-from aidedk import connect, VehicleMode
-from aidedk.test import with_sitl, wait_for
+from aidedkit import connect, VehicleMode
+from aidedkit.test import with_sitl, wait_for
 from nose.tools import assert_equals, assert_not_equals
 
 

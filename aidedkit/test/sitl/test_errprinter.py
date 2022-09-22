@@ -3,8 +3,8 @@ import time
 
 from nose.tools import assert_true
 
-from aidedk import connect
-from aidedk.test import with_sitl
+from aidedkit import connect
+from aidedkit.test import with_sitl
 
 
 @with_sitl

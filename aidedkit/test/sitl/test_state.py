@@ -1,5 +1,5 @@
-from aidedk import connect, SystemStatus
-from aidedk.test import with_sitl
+from aidedkit import connect, SystemStatus
+from aidedkit.test import with_sitl
 from nose.tools import assert_equals
 
 

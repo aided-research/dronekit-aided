@@ -12,7 +12,7 @@ Full documentation is provided at http://python.dronekit.io/examples/simple_goto
 
 from __future__ import print_function
 import time
-from aidedk import connect, VehicleMode, LocationGlobalRelative
+from aidedkit import connect, VehicleMode, LocationGlobalRelative
 
 
 # Set up option parsing to get connection string

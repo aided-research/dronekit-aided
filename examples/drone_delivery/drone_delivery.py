@@ -15,7 +15,7 @@ import os
 import simplejson
 import time
 
-from aidedk import connect, VehicleMode, LocationGlobal, LocationGlobalRelative
+from aidedkit import connect, VehicleMode, LocationGlobal, LocationGlobalRelative
 import cherrypy
 from jinja2 import Environment, FileSystemLoader
 

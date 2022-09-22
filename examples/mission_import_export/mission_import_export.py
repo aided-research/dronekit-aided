@@ -14,7 +14,7 @@ Documentation is provided at http://python.dronekit.io/examples/mission_import_e
 from __future__ import print_function
 
 
-from aidedk import connect, Command
+from aidedkit import connect, Command
 import time
 
 

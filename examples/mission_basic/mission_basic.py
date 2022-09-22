@@ -9,7 +9,7 @@ Full documentation is provided at https://dronekit-python.readthedocs.io/en/late
 """
 from __future__ import print_function
 
-from aidedk import connect, VehicleMode, LocationGlobalRelative, LocationGlobal, Command
+from aidedkit import connect, VehicleMode, LocationGlobalRelative, LocationGlobal, Command
 import time
 import math
 from pymavlink import mavutil

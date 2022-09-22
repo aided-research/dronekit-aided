@@ -1,6 +1,6 @@
 import time
-from aidedk import connect
-from aidedk.test import with_sitl
+from aidedkit import connect
+from aidedkit.test import with_sitl
 from nose.tools import assert_equals
 
 

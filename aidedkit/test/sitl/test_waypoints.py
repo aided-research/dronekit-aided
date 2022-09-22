@@ -1,7 +1,7 @@
 import time
-from aidedk import connect, LocationGlobal, Command
+from aidedkit import connect, LocationGlobal, Command
 from pymavlink import mavutil
-from aidedk.test import with_sitl
+from aidedkit.test import with_sitl
 from nose.tools import assert_not_equals, assert_equals
 
 

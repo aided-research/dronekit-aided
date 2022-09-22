@@ -9,7 +9,7 @@ my_vehicle.py:
 Custom Vehicle subclass to add IMU data.
 """
 
-from aidedk import Vehicle
+from aidedkit import Vehicle
 
 
 class RawIMU(object):

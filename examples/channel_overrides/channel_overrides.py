@@ -18,7 +18,7 @@ and we will try to find a better alternative: https://github.com/dronekit/dronek
 Full documentation is provided at http://python.dronekit.io/examples/channel_overrides.html
 """
 from __future__ import print_function
-from aidedk import connect
+from aidedkit import connect
 
 
 #Set up option parsing to get connection string

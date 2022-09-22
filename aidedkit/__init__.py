@@ -53,7 +53,7 @@ from past.builtins import basestring
 from pymavlink import mavutil, mavwp
 from pymavlink.dialects.v10 import ardupilotmega
 
-from aidedk.util import ErrprinterHandler
+from aidedkit.util import ErrprinterHandler
 
 
 class APIException(Exception):
@@ -3196,7 +3196,7 @@ def connect(ip,
     :returns: A connected vehicle of the type defined in ``vehicle_class`` (a superclass of :py:class:`Vehicle`).
     """
 
-    from aidedk.mavlink import MAVConnection
+    from aidedkit.mavlink import MAVConnection
 
     if not vehicle_class:
         vehicle_class = Vehicle

@@ -12,7 +12,7 @@ Full documentation is provided at http://python.dronekit.io/examples/flight_repl
 """
 from __future__ import print_function
 
-from aidedk import connect, Command, VehicleMode, LocationGlobalRelative
+from aidedkit import connect, Command, VehicleMode, LocationGlobalRelative
 from pymavlink import mavutil
 import json, urllib, math
 import time

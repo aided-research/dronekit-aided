@@ -3,7 +3,7 @@
 
 from __future__ import print_function
 
-from aidedk import connect
+from aidedkit import connect
 import time
 
 # Set up option parsing to get connection string

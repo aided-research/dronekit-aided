@@ -3,8 +3,8 @@ This test represents a simple demo for testing.
 Feel free to copy and modify at your leisure.
 """
 
-from aidedk import connect, VehicleMode
-from aidedk.test import with_sitl
+from aidedkit import connect, VehicleMode
+from aidedkit.test import with_sitl
 from nose.tools import assert_equals
 
 

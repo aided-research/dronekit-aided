@@ -1,9 +1,9 @@
 from pymavlink import mavutil
 
-from aidedk import connect
-from aidedk.test import with_sitl
+from aidedkit import connect
+from aidedkit.test import with_sitl
 
-from aidedk.test.sitl import assert_command_ack
+from aidedkit.test.sitl import assert_command_ack
 
 
 @with_sitl

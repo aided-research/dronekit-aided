@@ -8,8 +8,8 @@ Full documentation is provided at http://python.dronekit.io/examples/simple_goto
 """
 
 import time
-from aidedk import connect, VehicleMode, LocationGlobalRelative
-from aidedk.test import with_sitl
+from aidedkit import connect, VehicleMode, LocationGlobalRelative
+from aidedkit.test import with_sitl
 from nose.tools import assert_equals
 
 

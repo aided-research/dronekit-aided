@@ -1,6 +1,6 @@
 import time
-from aidedk import connect, Vehicle
-from aidedk.test import with_sitl
+from aidedkit import connect, Vehicle
+from aidedkit.test import with_sitl
 
 
 class DummyVehicle(Vehicle):

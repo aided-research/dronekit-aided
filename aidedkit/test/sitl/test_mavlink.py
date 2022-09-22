@@ -1,7 +1,7 @@
 import time
-from aidedk import connect
-from aidedk.mavlink import MAVConnection
-from aidedk.test import with_sitl
+from aidedkit import connect
+from aidedkit.mavlink import MAVConnection
+from aidedkit.test import with_sitl
 
 
 @with_sitl
