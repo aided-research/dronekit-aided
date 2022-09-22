@@ -16,7 +16,7 @@ Full documentation is provided at http://python.dronekit.io/examples/create_attr
 """
 from __future__ import print_function
 
-from dronekit import connect, Vehicle
+from aidedk import connect, Vehicle
 from my_vehicle import MyVehicle #Our custom vehicle class
 import time
 

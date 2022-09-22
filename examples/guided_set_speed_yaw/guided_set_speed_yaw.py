@@ -11,7 +11,7 @@ Example documentation: http://python.dronekit.io/examples/guided-set-speed-yaw-d
 """
 from __future__ import print_function
 
-from dronekit import connect, VehicleMode, LocationGlobal, LocationGlobalRelative
+from aidedk import connect, VehicleMode, LocationGlobal, LocationGlobalRelative
 from pymavlink import mavutil # Needed for command message definitions
 import time
 import math

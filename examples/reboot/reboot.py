@@ -3,7 +3,7 @@
 
 from __future__ import print_function
 
-from dronekit import connect
+from aidedk import connect
 import time
 
 # Set up option parsing to get connection string

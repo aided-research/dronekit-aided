@@ -13,7 +13,7 @@ minimum, and most recent interval for 30 seconds.
 Full documentation is provided at http://python.dronekit.io/examples/performance_test.html
 """
 from __future__ import print_function
-from dronekit import connect
+from aidedk import connect
 from pymavlink import mavutil
 import time
 import sys
