@@ -9,7 +9,7 @@ my_vehicle.py:
 Custom Vehicle subclass to add IMU data.
 """
 
-from dronekit import Vehicle
+from aidedk import Vehicle
 
 
 class RawIMU(object):

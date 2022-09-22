@@ -12,7 +12,7 @@ Full documentation is provided at http://python.dronekit.io/examples/play_tune.h
 
 from __future__ import print_function
 import time
-from dronekit import connect
+from aidedk import connect
 
 
 # Set up option parsing to get connection string

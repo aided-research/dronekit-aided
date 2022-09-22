@@ -9,7 +9,7 @@ from __future__ import print_function
 # This is a small example of the python drone API - an ultra minimal GCS
 #
 
-from dronekit import connect, VehicleMode
+from aidedk import connect, VehicleMode
 from pymavlink import mavutil
 from Tkinter import *
 

@@ -15,7 +15,7 @@ Tested in Python 2.7.10
 
 """
 
-from dronekit import connect, VehicleMode, LocationGlobal, LocationGlobalRelative
+from aidedk import connect, VehicleMode, LocationGlobal, LocationGlobalRelative
 from pymavlink import mavutil # Needed for command message definitions
 import time
 import math
